@@ -13,11 +13,12 @@ I used Jupyter notebook, the scikitlearn and imbalanced-learn libraries, as well
 ## Results
 
 - RandomOverSampler
-  - Balanced Accuracy Score - 
-  - Precision Score - 
-  - Recall Score - 
-  - Explanation - 
-  - Screenshot - 
+  - Balanced Accuracy Score - 0.6645
+  - Precision Score - 0.01
+  - Recall Score - 0.73
+  - Explanation - RandomOverSampler was not very accurate, or precise, when determining whether or not a patient was high_risk. Furthermore, the F1 score was 0.02 which means that this was a poor attempt at assessing risk. 
+  - Screenshot - ![image](https://user-images.githubusercontent.com/114685724/222313129-315559fa-2b57-4976-ac2c-b375f2b2b0b9.png)
+
 - SMOTE
   - Balanced Accuracy Score - 
   - Precision Score - 
