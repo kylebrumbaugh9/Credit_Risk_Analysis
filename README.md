@@ -16,12 +16,39 @@ I used Jupyter notebook, the scikitlearn and imbalanced-learn libraries, as well
   - Balanced Accuracy Score - 
   - Precision Score - 
   - Recall Score - 
-  - Explanation
+  - Explanation - 
+  - Screenshot - 
 - SMOTE
+  - Balanced Accuracy Score - 
+  - Precision Score - 
+  - Recall Score - 
+  - Explanation - 
+  - Screenshot - 
 - ClusterCentroids
+  - Balanced Accuracy Score - 
+  - Precision Score - 
+  - Recall Score - 
+  - Explanation - 
+  - Screenshot - 
 - SMOTEENN
+  - Balanced Accuracy Score - 
+  - Precision Score - 
+  - Recall Score - 
+  - Explanation - 
+  - Screenshot - 
 - BalancedRandomForestClassifier
+  - Balanced Accuracy Score - 
+  - Precision Score - 
+  - Recall Score - 
+  - Explanation - 
+  - Screenshot - 
 - EasyEnsembleClassifier
+  - Balanced Accuracy Score - 
+  - Precision Score - 
+  - Recall Score - 
+  - Explanation - 
+  - Screenshot - 
+  - 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 Results:
